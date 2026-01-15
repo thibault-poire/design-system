@@ -1,0 +1,42 @@
+{
+  "primary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "secondary": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "font-family": {
+    "$type": "string",
+    "$value": "Silkscreen"
+  },
+  "text-on-primary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "font-size-medium": {
+    "$type": "number",
+    "$value": 16
+  },
+  "text-on-secondary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "background-primary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "background-secondary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "border-around-primary": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "border-around-secondary": {
+    "$type": "color",
+    "$value": "#000000"
+  }
+}
